@@ -1,0 +1,109 @@
+.sneakers {
+  position: fixed;
+  left: 70px;
+  top: 0px;
+}
+
+.text1 {
+  position: fixed;
+  right: 700px;
+  top: 30px;
+}
+
+.icon1 {
+  position: fixed;
+  right: 300px;
+  top: 30px;
+}
+
+.oval {
+  width: 30px;
+}
+
+.image1 {
+  position: fixed;
+  top: 100px;
+  left: 70px;
+  width: 5px;
+  height: 5px;
+}
+
+.image2 {
+  position: fixed;
+  top: 580px;
+  left: 60px;
+}
+
+.text2 {
+  position: fixed;
+  left: 650px;
+  top: 150px;
+  color: orange;
+}
+
+.text3 {
+  position: fixed;
+  left: 600px;
+  top: 200px;
+}
+
+.text4 {
+  position: fixed;
+  left: 600px;
+  top: 240px;
+}
+
+.text5 {
+  position: fixed;
+  left: 600px;
+  top: 300px;
+}
+
+.text6 {
+  position: fixed;
+  left: 600px;
+  top: 340px;
+}
+
+.text7 {
+  position: fixed;
+  left: 600px;
+  top: 380px;
+}
+
+.text8 {
+  position: fixed;
+  left: 600px;
+  top: 420px;
+}
+
+.image3 {
+  position: fixed;
+  left: 750px;
+  top: 445px;
+}
+
+.image4 {
+  position: fixed;
+  left: 600px;
+  top: 490px;
+}
+
+.image5 {
+  position: fixed;
+  left: 600px;
+  top: 540px;
+}
+
+.image6 {
+  position: fixed;
+  left: 750px;
+  top: 530px;
+}
+
+.divider {
+  margin-top: 70px;
+  border-top: 1px solid rgb(230, 227, 227);
+  left: 70px;
+  width: 90%;
+}/*# sourceMappingURL=style.css.map */
